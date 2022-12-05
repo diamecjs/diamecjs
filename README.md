@@ -1,8 +1,6 @@
-Hola mi nombre es diamela lares ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hola mi nombre es Diamela Lares ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
 
-Desarrollador de pila completa de soja
---------------------------------------
 
 🌟Soy Full Stack Developer 👩‍💻, encontré mi pasión en la programación y día a día sigo perfeccionandome en nuevas tecnologías y lenguajes.
 🌟Soy una persona perseverante, responsable, organizada, detallada, curiosa, proactiva, me gusta trabajar en equipo o sola, me adapto facilmente a los cambios y me gustan los desafios. 🧡🚀
