@@ -4,9 +4,10 @@ Hola mi nombre es diamela lares ![](https://user-images.githubusercontent.com/18
 Desarrollador de pila completa de soja
 --------------------------------------
 
-🌟Soy Full Stack Developer 👩‍💻, encontré mi pasión en la programación y día a día sigo perfeccionandome en nuevas tecnologías y lenguajes. Soy una persona perseverante, responsable, organizada, detallada, curiosa, proactiva, me gusta trabajar en equipo o sola, me adapto facilmente a los cambios y me gustan los desafios. 🧡🚀
+🌟Soy Full Stack Developer 👩‍💻, encontré mi pasión en la programación y día a día sigo perfeccionandome en nuevas tecnologías y lenguajes.
+🌟Soy una persona perseverante, responsable, organizada, detallada, curiosa, proactiva, me gusta trabajar en equipo o sola, me adapto facilmente a los cambios y me gustan los desafios. 🧡🚀
 
-* 🌍 Estoy basado en C
+*🌍 Estoy basado en C
 
 ### Skills
 
