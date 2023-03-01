@@ -9,7 +9,7 @@ Hola mi nombre es Diamela Lares ![](https://user-images.githubusercontent.com/18
 🌟Soy Full Stack Developer 👩‍💻, encontré mi pasión en la programación y día a día sigo perfeccionandome en nuevas tecnologías y lenguajes.
 🌟Soy una persona perseverante, responsable, organizada, detallada, curiosa, proactiva, me gusta trabajar en equipo o sola, me adapto facilmente a los cambios y me gustan los desafios. 🧡🚀
 
-* 🌍  Vivo en Santa Marta - Colombia
+* 🌍  Vivo en Piriápolis - Uruguay
 * ✉️  Puedes contactarme a [diame.cjs@gmail.com](mailto:diame.cjs@gmail.com)
 * 🧠  Estoy aprendiendo Nuevos lenguajes y profundizando los que ya tengo.
 * ⚡  Cuando no estoy programando estoy bajo el sol con un buen libro 📖 ☀️
