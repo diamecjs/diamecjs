@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/D4D16AQFcKMfvlAMZVg/profile-displaybackgroundimage-shrink_350_1400/0/1670276367077?e=1675900800&v=beta&t=WAZJQ1rV2yRPYU9IlirB5t7M8uwDWlmyvkN18yrQe3E" />
+<img src="https://res.cloudinary.com/dsjsbp6qy/image/upload/v1686844612/Diamela_lares_2_m0nhbz.png" />
 
 
 
